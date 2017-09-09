@@ -3,3 +3,4 @@ red
 white
 black
 attack on titan
+added master red color
