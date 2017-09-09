@@ -3,14 +3,7 @@ red
 white
 black
 attack on titan
-<<<<<<< HEAD
 added master red color
 added master black2
-=======
-<<<<<<< HEAD
 feature1 red color
-=======
-added master red color
->>>>>>> master
 feature1 add neon
->>>>>>> feature1
