@@ -3,4 +3,8 @@ red
 white
 black
 attack on titan
+<<<<<<< HEAD
 feature1 red color
+=======
+added master red color
+>>>>>>> master
