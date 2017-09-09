@@ -1,6 +1,10 @@
 blue
 red
+<<<<<<< HEAD
 teal
+=======
+green
+>>>>>>> fix1
 white
 black
 attack on titan
